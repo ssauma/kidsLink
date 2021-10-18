@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## Mobile Kids DynamicLinks
 
-You can use the [editor on GitHub](https://github.com/ssauma/kidsLink/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[홈](https://kidsdev.page.link/?link=kids://com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[책읽어주는_TV](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DB%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[영어유치원](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DG%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+[누리교실_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DT%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[생생체험학습_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DE%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[유튜브키즈_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DAPP%26cat_type%3D%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssauma/kidsLink/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[캐릭터_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DC%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[아이들채널_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DAPP%26cat_type%3D%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[브랜드관_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DR%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[부모교실_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DP%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[에그스쿨_랜딩](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DH%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[책읽어주는_TV_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DB%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[영어유치원_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DG%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[누리교실__2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DT%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[생생체험학습_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DE%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[캐릭터관_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DC%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[브랜드관_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DR%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[부모교실_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DP%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[에그스쿨_2depth](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3D%26cat_type%3DH%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[일반_상세화면](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DDIR%26cat_type%3D%26rec_id%3D%26cat_flag%3D%26seires_yn%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[책TV_상세화면](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DDIR%26cat_type%3DB%26rec_id%3D%26cat_flag%3D%26seires_yn%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[영어유치원_상세화면](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DDIR%26cat_type%3DG%26rec_id%3D%26cat_flag%3D%26seires_yn%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[공지사항](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fnotice_id%3D%26notice_no%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[헬로캐리퀴즈쇼](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Ftype%3DAPP%26recommend_id%3DQUIZSHOW&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[맞춤도서추천](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Ftype%3DAPP%26recommend_id%3DREADINGTVCODY&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+[육아종합검사](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Ftype%3DAPP%26recommend_id%3DPARENTCODY&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
