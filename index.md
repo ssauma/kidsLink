@@ -5,6 +5,7 @@
 
 [책읽어주는_TV](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DB%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
+[책읽어주는_TV decoded](https://kidsdev.page.link/?link=kids://com.lguplus.mobile.kids?cat_id=&album=&type=TOP&cat_type=B&rec_id=&cat_flag=&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
 [영어유치원](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DG%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
