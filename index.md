@@ -94,6 +94,9 @@
 - [홈](https://upluskids.page.link/?link=kids://com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids&efr=1)
 
 
+- [책읽어주는_TV Short URL](https://upluskids.page.link/3CTh)
+
+
 - [책읽어주는_TV](https://upluskids.page.link/?link=kids://com.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DB%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids&efr=1)
 
 
