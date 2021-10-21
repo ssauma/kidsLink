@@ -4,7 +4,10 @@
 
 ## Development
 
-- [홈](https://kidsdev.page.link/?link=kids://com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+- [HTTP Scheme](https://kidsdev.page.link/?link=https%3A%2F%2Fkidsworld.uplus.co.kr&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
+
+
+- [홈](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
 
 
 - [책읽어주는_TV](https://kidsdev.page.link/?link=kids%3A%2F%2Fcom.lguplus.mobile.kids%3Fcat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DB%26rec_id%3D%26cat_flag%3D&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2&efr=1)
