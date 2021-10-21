@@ -10,7 +10,7 @@
 - [홈](https://kidsdev.page.link/?link=https://kidsworld.uplus.co.kr&apn=com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2)
 
 
-- [책읽어주는_TV](https://kidsdev.page.link/?link=https://kidsworld.uplus.co.kr?cat_id%253DDL69Q%2526album%253D%2526type%253DTOP%2526cat_type%253DB%2526rec_id%253D%2526cat_flag%253DDL69Q%250A&apn=com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.dev2)
+- [책읽어주는_TV](https://kidsdev.page.link/?link=https://kidsworld.uplus.co.kr?cat_id%253DDL69Q%2526album%253D%2526type%253DTOP%2526cat_type%253DB%2526rec_id%253D%2526cat_flag%253DDL69Q&apn=com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.dev2)
 
 
 - [영어유치원](https://kidsdev.page.link/?link=https://kidsworld.uplus.co.kr?cat_id%3D%26album%3D%26type%3DTOP%26cat_type%3DG%26rec_id%3D%26cat_flag%3D&apn=com.lguplus.mobile.kids&isi=1521425764&ibi=com.lguplus.mobile.kids.dev2)
